@@ -208,6 +208,7 @@
             this.Cbo_perfiles.Name = "Cbo_perfiles";
             this.Cbo_perfiles.Size = new System.Drawing.Size(160, 27);
             this.Cbo_perfiles.TabIndex = 0;
+            this.Cbo_perfiles.SelectedIndexChanged += new System.EventHandler(this.Cbo_perfiles_SelectedIndexChanged_1);
             // 
             // Cbo_aplicaciones
             // 

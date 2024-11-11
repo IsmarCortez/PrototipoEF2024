@@ -24,7 +24,7 @@ namespace Capa_Vista_Nominas
             navegador1.AsignarColorFondo(Color.MediumPurple);
             navegador1.AsignarColorFuente(Color.Black);
             navegador1.AsignarTabla("tbl_control_faltas");
-            navegador1.ObtenerIdAplicacion("1000");
+            navegador1.ObtenerIdAplicacion("6007");
             navegador1.ObtenerIdUsuario(idUsuario);
             navegador1.AsignarAyuda("1");
             navegador1.AsignarNombreForm("Control de Faltas");

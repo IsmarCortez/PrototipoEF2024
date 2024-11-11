@@ -676,6 +676,11 @@ namespace Capa_Vista_Seguridad
                 Console.WriteLine(ex);
             }
         }
+
+        private void Cbo_perfiles_SelectedIndexChanged_1(object sender, EventArgs e)
+        {
+
+        }
     }
     //******************ACA TERMINA********************************************************
 }

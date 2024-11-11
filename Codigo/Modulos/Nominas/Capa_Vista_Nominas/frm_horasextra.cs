@@ -28,7 +28,7 @@ namespace Capa_Vista_Nominas
             navegador1.AsignarColorFondo(Color.LightGray);
             navegador1.AsignarColorFuente(Color.Black);
             navegador1.AsignarTabla("tbl_horas_extra");
-            navegador1.ObtenerIdAplicacion("1000");
+            navegador1.ObtenerIdAplicacion("6006");
             navegador1.ObtenerIdUsuario(idUsuario);
             navegador1.AsignarAyuda("1");
             navegador1.AsignarNombreForm("Horas Extra");
