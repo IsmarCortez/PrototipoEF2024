@@ -26,7 +26,7 @@ namespace Capa_Vista_Nominas
             navegador1.AsignarColorFondo(Color.FromArgb(145, 79, 219));
             navegador1.AsignarColorFuente(Color.Black);
             navegador1.AsignarTabla("tbl_control_anticipos");
-            navegador1.ObtenerIdAplicacion("1000");
+            navegador1.ObtenerIdAplicacion("6008");
             navegador1.ObtenerIdUsuario(idUsuario);
             navegador1.AsignarAyuda("1");
             navegador1.AsignarNombreForm("Control Anticipos");
